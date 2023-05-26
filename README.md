@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
