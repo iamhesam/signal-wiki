@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+fix predict with class filter
