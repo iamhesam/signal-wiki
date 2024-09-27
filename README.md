@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Reverse IoU threshold for NMS docs descriptions (#9151)
